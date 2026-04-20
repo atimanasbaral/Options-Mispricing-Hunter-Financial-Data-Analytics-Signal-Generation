@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/option_mispricing/mlruns/222939657273200038/0a9879a5ddab49778eae0d81701a9ca1/artifacts
+end_time: 1776631578696
+entry_point_name: ''
+experiment_id: '222939657273200038'
+lifecycle_stage: active
+run_id: 0a9879a5ddab49778eae0d81701a9ca1
+run_name: lgb_trial_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776631578552
+status: 3
+tags: []
+user_id: swagat

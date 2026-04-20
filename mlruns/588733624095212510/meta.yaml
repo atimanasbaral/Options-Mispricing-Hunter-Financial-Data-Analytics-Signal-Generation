@@ -1,0 +1,8 @@
+artifact_location: file:///D:/option_mispricing/mlruns/588733624095212510
+creation_time: 1776630637542
+experiment_id: '588733624095212510'
+last_update_time: 1776630637542
+lifecycle_stage: active
+name: options_mispricing
+trace_location: null
+workspace: default

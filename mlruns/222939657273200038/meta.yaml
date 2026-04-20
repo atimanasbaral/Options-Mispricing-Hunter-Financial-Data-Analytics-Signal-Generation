@@ -1,0 +1,8 @@
+artifact_location: file:///D:/option_mispricing/mlruns/222939657273200038
+creation_time: 1776631531095
+experiment_id: '222939657273200038'
+last_update_time: 1776631531095
+lifecycle_stage: active
+name: optuna_fine_tuning
+trace_location: null
+workspace: default
